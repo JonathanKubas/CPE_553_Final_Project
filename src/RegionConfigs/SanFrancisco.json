@@ -1,0 +1,68 @@
+{
+    "medical facilities": [
+        {
+            "address": "1001 Potrero Ave, San Francisco, CA 94110",
+            "name": "Zuckerberg San Francisco General Hospital and Trauma Center",
+            "patients": [
+                {
+                    "age": 16,
+                    "illness": "Broken Foot",
+                    "medical professionals": [
+                        {
+                            "name": "George Wilson",
+                            "specialization": "Orthopedic Surgeon",
+                            "type": "Doctor"
+                        },
+                        {
+                            "name": "Jessica Jones",
+                            "specialization": "Orthopedic Therapy",
+                            "type": "Physical Therapist"
+                        }
+                    ],
+                    "name": "Fred Stevens",
+                    "status": "Admitted"
+                }
+            ],
+            "type": "Hospital"
+        },
+        {
+            "address": "101 Casa Buena Dr, Corte Madera, CA 94925",
+            "name": "Medical Center of Marin",
+            "patients": [
+                {
+                    "age": 80,
+                    "illness": "Weak Legs",
+                    "medical professionals": [
+                        {
+                            "name": "Larry Murray",
+                            "specialization": "Geriatricians",
+                            "type": "Doctor"
+                        },
+                        {
+                            "name": "Adam Fanning",
+                            "specialization": "Geriatric Nurse",
+                            "type": "Nurse"
+                        }
+                    ],
+                    "name": "Walter Gregory",
+                    "status": "Admitted"
+                },
+                {
+                    "age": 42,
+                    "illness": "Head Trauma",
+                    "medical professionals": [
+                        {
+                            "name": "Larry Murray",
+                            "specialization": "Brain Surgeon",
+                            "type": "Doctor"
+                        }
+                    ],
+                    "name": "Dean Ledger",
+                    "status": "Discharged"
+                }
+            ],
+            "type": "Hospital"
+        }
+    ],
+    "name": "San Francisco"
+}

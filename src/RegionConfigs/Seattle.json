@@ -1,0 +1,75 @@
+{
+    "medical facilities": [
+        {
+            "address": "140 4th Ave N, Seattle, Washington 98109",
+            "name": "Gray Slone Memorial Hospital",
+            "patients": [
+                {
+                    "age": 32,
+                    "illness": "Flu",
+                    "medical professionals": [
+                        {
+                            "name": "Derek Shepard",
+                            "specialization": "Brain Surgeon",
+                            "type": "Doctor"
+                        },
+                        {
+                            "name": "Cristina Yang",
+                            "specialization": "Heart Surgeon",
+                            "type": "Doctor"
+                        }
+                    ],
+                    "name": "Maridth Gray",
+                    "status": "Admitted"
+                }
+            ],
+            "type": "Hospital"
+        },
+        {
+            "address": "15000 Centennial Drive, Seattle, Washington 98109",
+            "name": "Mercy West Hospital",
+            "patients": [
+                {
+                    "age": 50,
+                    "illness": "Collapsed Lung",
+                    "medical professionals": [
+                        {
+                            "name": "Jackson Avery",
+                            "specialization": "Plastic Surgeon",
+                            "type": "Doctor"
+                        },
+                        {
+                            "name": "BokHee An",
+                            "specialization": "Scrub Nurse",
+                            "type": "Nurse"
+                        }
+                    ],
+                    "name": "Mark Sloan",
+                    "status": "Admitted"
+                }
+            ],
+            "type": "Hospital"
+        },
+        {
+            "address": "301 5th Ave, Seattle, Washington 98104-2633",
+            "name": "Seattle Press",
+            "patients": [
+                {
+                    "age": 32,
+                    "illness": "Rehab for amputated leg",
+                    "medical professionals": [
+                        {
+                            "name": "Callie Torress",
+                            "specialization": "Orthopedic Surgeon",
+                            "type": "Physical Therapist"
+                        }
+                    ],
+                    "name": "Arizona Robins",
+                    "status": "Discharged"
+                }
+            ],
+            "type": "Rehabilitation Center"
+        }
+    ],
+    "name": "Seattle"
+}

@@ -1,0 +1,48 @@
+{
+    "medical facilities": [
+        {
+            "address": "550 1st Ave., New York, NY 10016",
+            "name": "NYU Langone Health",
+            "patients": [
+                {
+                    "age": 50,
+                    "illness": "Tissue Damage",
+                    "medical professionals": [
+                        {
+                            "name": "Phillip Stewart ",
+                            "specialization": "Regular Nursing",
+                            "type": "Nurse"
+                        },
+                        {
+                            "name": "Chris Tyler",
+                            "specialization": "Heart Surgeon",
+                            "type": "Cardiologist"
+                        }
+                    ],
+                    "name": "Jerry Smith",
+                    "status": "Discharged"
+                }
+            ],
+            "type": "Hospital"
+        },
+        {
+            "address": "123 4th Street, NYC",
+            "name": "New York City Urgent Care",
+            "patients": [],
+            "type": "Urgent Care"
+        },
+        {
+            "address": "123 Random Address",
+            "name": "Jerry Memorial Hospital",
+            "patients": [],
+            "type": "Hospital"
+        },
+        {
+            "address": "123 Random Address",
+            "name": "Random Name",
+            "patients": [],
+            "type": "Hospital"
+        }
+    ],
+    "name": "New York"
+}
