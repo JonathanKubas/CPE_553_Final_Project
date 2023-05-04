@@ -1,6 +1,6 @@
 /* 
 ========== File Description ==========
-
+This file acts as the initialization of the Region class.
 */
 
 // Necessary library includes

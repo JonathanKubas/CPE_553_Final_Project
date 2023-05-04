@@ -1,6 +1,8 @@
 /* 
 ========== File Description ==========
-
+This file is responsible for holding all of the functions that are used in various
+places throughout the code. The perform various tasks that are required to be done
+repeatably.
 */
 
 // Necessary library includes

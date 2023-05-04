@@ -1,6 +1,7 @@
 /* 
 ========== File Description ==========
-
+This file acts as the initialization of the Medical Facility class and its
+various children classes.
 */
 
 // Necessary library includes

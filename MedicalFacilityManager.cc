@@ -9,9 +9,8 @@ hanging over the heads of the medical professionals that work at these facilitie
 To help provide a solution to this dangerous situation, this program is supposed
 to act as an interactive user interface that will allow the individuals working at
 various medical locations to access and store medical facility and patient
-information in real time. Specifics on how this script works can either be found in
-the various comment chunks the are placed in several areas throughout this program
-or in the README.md file that was added to this script.
+information in real time. Specifics on how this script works can be found in
+the various comment chunks the are placed in several areas throughout this program.
 */
 
 // Necessary library includes

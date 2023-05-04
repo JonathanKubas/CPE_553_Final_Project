@@ -1,6 +1,8 @@
 /* 
 ========== File Description ==========
-
+This file is responsible for containing all of the switch statements that act as
+the backbone of the medical facility user interface. These switch statements give
+the users the various options that they need to use and traverse this nested system.
 */
 
 // Necessary library includes
